@@ -6,10 +6,10 @@ BlendTree:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: vrc_CrouchingLocomotion
+  m_Name: Chubbo_Sit
   m_Childs:
   - serializedVersion: 2
-    m_Motion: {fileID: 7400000, guid: c570e439d78aa56478db7e9bc3b2480d, type: 2}
+    m_Motion: {fileID: 7400000, guid: 048aeded43002e34ca65136aca797364, type: 2}
     m_Threshold: 0
     m_Position: {x: 0, y: 0}
     m_TimeScale: 1

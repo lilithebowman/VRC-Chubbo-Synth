@@ -1383,7 +1383,6 @@ GameObject:
   - component: {fileID: 5866666020326660257}
   - component: {fileID: 1722574140}
   - component: {fileID: 1722574141}
-  - component: {fileID: 919132147520985186}
   m_Layer: 0
   m_Name: ChubboSynth v2 (fbx)
   m_TagString: Untagged
@@ -1391,19 +1390,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &919132147520985186
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 919132147520985185}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 229740497, guid: 4ecd63eff847044b68db9453ce219299, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  contentType: 0
 --- !u!4 &1174229724752135277
 Transform:
   m_ObjectHideFlags: 0
