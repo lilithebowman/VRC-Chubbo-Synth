@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1506855854, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: CS - Parameters
+  m_EditorClassIdentifier: 
+  parameters:
+  - name: VRCEmote
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: HueSliderFloatEmission
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: HueSliderFloat
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: BellyFloat
+    valueType: 1
+    saved: 1
+    defaultValue: 0.5
+  - name: AssFloat
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: HelmetShapeFloat
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: HornsFloat
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: VisorSeam-Front
+    valueType: 2
+    saved: 1
+    defaultValue: 1
+  - name: VisorSeam-Center
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: VisorSeam-Sides
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: VisorSizeFloat
+    valueType: 1
+    saved: 1
+    defaultValue: 0.666
+  - name: VisorEyesFloat
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: EyepieceFloat
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: HelperBot
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: AddOn-Mohawk
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: HueSkinsFloat
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: HueShirtFloat
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: HuePantsFloat
+    valueType: 1
+    saved: 1
+    defaultValue: 0.1
+  - name: GlowyBool
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Pants1Bool
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Pants2Bool
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: ShirtInt
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: HeavyRBool
+    valueType: 2
+    saved: 1
+    defaultValue: 0
