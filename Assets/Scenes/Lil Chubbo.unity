@@ -2691,7 +2691,7 @@ PrefabInstance:
     - target: {fileID: 4831853778554759122, guid: eca9efccfaf39d541a4d917ccf42fa66,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5119589067720687581, guid: eca9efccfaf39d541a4d917ccf42fa66,
         type: 3}
@@ -3947,7 +3947,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &8660608021702135329
 GameObject:
   m_ObjectHideFlags: 0
@@ -4171,7 +4171,7 @@ MonoBehaviour:
   blueprintId: avtr_384ae14d-8393-4e07-b2da-03eb6b67695e
   contentType: 0
   assetBundleUnityVersion: 
-  fallbackStatus: 1
+  fallbackStatus: 0
 --- !u!114 &8866177376647430743
 MonoBehaviour:
   m_ObjectHideFlags: 0
